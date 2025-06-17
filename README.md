@@ -1,7 +1,7 @@
 
 # UTM Professor Data Analysis (Demo Only)
 
-This project demonstrates how to analyze and visualize professor rating data using **Bayesian averaging**, based on available data from [RateMyProfessors](https://www.ratemyprofessors.com/).  
+This project demonstrates how to analyze and visualize professor rating data using Bayesian averaging, based on data that was collected from publicly available pages on [RateMyProfessors](https://www.ratemyprofessors.com/).  
 Only analysis logic and example plots are retained for educational purposes.
 
 ---
