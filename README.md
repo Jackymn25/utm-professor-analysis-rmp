@@ -1,12 +1,12 @@
 
 # UTM Professor Data Analysis (Demo Only)
 
-This project demonstrates how to analyze and visualize professor rating data using **Bayesian averaging**, based on previously available data from [RateMyProfessors](https://www.ratemyprofessors.com/).  
+This project demonstrates how to analyze and visualize professor rating data using **Bayesian averaging**, based on available data from [RateMyProfessors](https://www.ratemyprofessors.com/).  
 Only analysis logic and example plots are retained for educational purposes.
 
 ---
 
-## Project Structure (Simplified)
+## Project Structure
 
 - `system_class.py`:  
   Defines core classes including `University`, `Department`, `ProfData`, and `CourseUnderProf`.
